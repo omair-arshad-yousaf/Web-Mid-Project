@@ -48,9 +48,20 @@ margin: 40px auto 30px;
   font-size: 40px;
   border: 5px solid #eeb60f ;
   padding: 10px;
-  text-align: center;
+  /* text-align: center; */
   
 }
+.per-heading{
+  font: 600;
+  font-size: xx-large;
+  color: rgb(46, 45, 45); 
+  text-align: center;
+  margin:30px auto ;
+  width: 45%;
+  font-size: 40px;
+  border: 5px solid #eeb60f ;
+  padding: 10px;}
+
 .heading-1{
 font: 600;
 font-size: xx-large;
@@ -181,16 +192,7 @@ a:hover{
 
 /* ----------------personality css----------------------------------- */
 
-.per-heading{
-font: 600;
-font-size: xx-large;
-color: rgb(46, 45, 45); 
-text-align: center;
-margin:30px auto ;
-width: 45%;
-font-size: 40px;
-border: 5px solid #eeb60f ;
-padding: 10px;}
+
 
 .color {
   background-color: #000000;
@@ -358,7 +360,7 @@ padding: 10px;}
             
           }
           .heading{
-          margin: 220px auto 30px;
+          margin: 325px auto 30px; /*220 auto 30 px*/
             text-align: center;
          }
          .res{
